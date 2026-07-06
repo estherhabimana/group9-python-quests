@@ -1,4 +1,4 @@
-# quest_27_fizzbuzz.py
+# quest_27_fizzbuzz_test.py
 
 for number in range(1, 101):
     if number % 3 == 0 and number % 5 == 0:
